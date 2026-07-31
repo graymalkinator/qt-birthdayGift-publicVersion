@@ -3,9 +3,15 @@ CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
+compile_commands.json
+Testing/
+install_manifest.txt
+
 *.pro.user
 *.autosave
 *.user
 *.creator
 *.creator.user
 *.creator.user.*
+
+.qtc_clangd/
