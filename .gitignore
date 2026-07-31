@@ -1,0 +1,11 @@
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.pro.user
+*.autosave
+*.user
+*.creator
+*.creator.user
+*.creator.user.*
