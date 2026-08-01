@@ -2,7 +2,7 @@
 A Qt 6/ QML desktop application originally built as a personalized birthday gift and later adapted into a public portfolio project.
 
 ## Background
-This application was originally created as a personalized birthday gift for my best friend.
+This application was originally created as a personalized birthday gift for a close friend.
 The original version contains private photos, videos, music, messages and personalized interactions, and remains in a private repository.
 This public version has been prepared for portfolio purposes. All private or identifying content has been replaced with generic placeholder assets while preserving the application's architecture, features and implementation.
 
