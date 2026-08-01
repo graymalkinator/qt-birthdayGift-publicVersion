@@ -14,7 +14,7 @@ Her name has been stripped of all but the starting letter. It's now an app for M
 
 ## Features
 
-- Built using Qt 6 (QML + C++)
+- Built using Qt 6 QML
 - Multi-screen desktop application
 - Centralized StackView-based navigation
 - Reusable QML components
